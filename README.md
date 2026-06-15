@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jainil Nagar 👋</h1>
 <h3 align="center">
-  Full Stack Developer • CMS Engineer • Open Source Builder
+  Full-Stack Engineer • CMS Engineer • Open Source Builder
 </h3>
 <p align="center">
   I build clean, practical and production-ready tools for Laravel, WordPress, Craft CMS, ExpressionEngine and modern PHP ecosystems.
@@ -18,11 +18,34 @@
 
 ## 🚀 About Me
 
-I'm a Full stack developer with 10+ years of experience building web platforms, CMS solutions, plugins, themes and developer-focused tools.
+I'm a full-stack engineer with 10+ years of experience building web platforms, CMS solutions, plugins, themes and developer-focused tools.
 
 My current focus is on creating polished open-source products that solve real problems for developers, site builders and content teams — from Gutenberg blocks and WordPress themes to Craft CMS utilities and ExpressionEngine add-ons.
 
 I care about clean architecture, thoughtful UX, maintainable code, accessibility, performance and shipping things that feel professional from day one.
+
+---
+
+## 🌱 Open Source Focus
+
+I'm actively building tools around:
+
+- WordPress block themes and Gutenberg blocks
+- Craft CMS plugins for better admin workflows
+- ExpressionEngine add-ons for developer productivity
+- Small utilities that make CMS development cleaner and faster
+
+---
+
+## 📌 Featured Work
+
+### WordPress
+- **Blockloom** — Gutenberg blocks for WordPress
+- **Inkraft** — A clean, modern WordPress block theme
+
+### Craft CMS
+- **Env Beacon** — Environment badge for Craft CMS
+- **Alt Scout** — Find assets missing alt text
 
 ---
 
@@ -78,29 +101,6 @@ I care about clean architecture, thoughtful UX, maintainable code, accessibility
 ### Artificial Intelligence and Bots
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
-
----
-
-## 🌱 Open Source Focus
-
-I'm actively building tools around:
-
-- WordPress block themes and Gutenberg blocks
-- Craft CMS plugins for better admin workflows
-- ExpressionEngine add-ons for developer productivity
-- Small utilities that make CMS development cleaner and faster
-
----
-
-## 📌 Featured Work
-
-### WordPress
-- **Blockloom** — Gutenberg blocks for WordPress
-- **inkraft** — A clean, modern WordPress block theme
-
-### Craft CMS
-- **Env Beacon** — Environment badge for Craft CMS
-- **Alt Scout** — Find assets missing alt text
 
 ---
 
