@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jainil Nagar 👋</h1>
 <h3 align="center">
-  Full-Stack Engineer • CMS Engineer • Open Source Builder
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5029F7&center=true&random=true&width=600&lines=Full-Stack+Engineer;CMS+Engineer;Open+Source+Builder;PHP+%7C+Laravel+%7C+WordPress+%7C+Craft+CMS+%7C+EE" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
   I build clean, practical and production-ready tools for Laravel, WordPress, Craft CMS, ExpressionEngine and modern PHP ecosystems.
